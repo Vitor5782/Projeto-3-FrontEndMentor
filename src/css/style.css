@@ -13,7 +13,7 @@ main {
     text-align: center;
     width: 50%;
     height: 75vh;
-    margin: 10%;
+    margin: 10% auto;
     background-color: hsl(0, 0%, 100%);
     border-radius: 15px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
